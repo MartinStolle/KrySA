@@ -1,8 +1,4 @@
-docutils
-pygments
-kivy.deps.sdl2
-kivy.deps.glew
-Cython>=0.23
-kivy
+Cython==0.21.2
+Kivy>=1.8.0
 sphinx==1.4.4
 sphinx-autobuild
