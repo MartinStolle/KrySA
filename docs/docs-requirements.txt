@@ -1,3 +1,8 @@
+docutils
+pygments
+pypiwin32
+kivy.deps.sdl2
+kivy.deps.glew
 Cython>=0.23
 kivy
 sphinx==1.4.4
